@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "title": "Visual Programming",
+    "code": "CS-301",
+    "credits": 3,
+    "instructor": {
+      "name": "Raja Faisal Umar",
+      "email": "faisal@au.edu.pk"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Data Structures",
+    "code": "CS-302",
+    "credits": 4,
+    "instructor": {
+      "name": "Ali Ahmed",
+      "email": "ali@au.edu.pk"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Database Systems",
+    "code": "CS-303",
+    "credits": 3,
+    "instructor": {
+      "name": "Sara Khan",
+      "email": "sara@au.edu.pk"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Computer Networks",
+    "code": "CS-304",
+    "credits": 3,
+    "instructor": {
+      "name": "Usman Malik",
+      "email": "usman@au.edu.pk"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Information Security",
+    "code": "CS-305",
+    "credits": 3,
+    "instructor": {
+      "name": "Ayesha Noor",
+      "email": "ayesha@au.edu.pk"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Web Development",
+    "code": "CS-306",
+    "credits": 3,
+    "instructor": {
+      "name": "Hamza Ali",
+      "email": "hamza@au.edu.pk"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Artificial Intelligence",
+    "code": "CS-307",
+    "credits": 4,
+    "instructor": {
+      "name": "Fatima Ahmed",
+      "email": "fatima@au.edu.pk"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Software Engineering",
+    "code": "CS-308",
+    "credits": 2,
+    "instructor": {
+      "name": "Bilal Hassan",
+      "email": "bilal@au.edu.pk"
+    }
+  }
+]
